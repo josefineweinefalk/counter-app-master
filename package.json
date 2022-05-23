@@ -6,7 +6,7 @@
     "node": "11.10.0",
     "npm": "6.7.0"
   },
-  "homepage": "https://josefineweinefalk.github.com/counter-app",
+  "homepage": "https://github.com/josefineweinefalk/counter-app-master",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "font-awesome": "^4.7.0",
@@ -14,7 +14,7 @@
     "popper.js": "^1.16.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "^5.0.1",
     "typescript": "^3.9.10"
   },
   "scripts": {
